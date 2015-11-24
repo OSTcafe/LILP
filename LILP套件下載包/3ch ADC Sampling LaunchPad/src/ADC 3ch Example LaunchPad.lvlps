@@ -1,0 +1,53 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "94,803,494,1133"
+
+[AB_Cache_{0AF9EE0F-E597-4B73-B3A6-D321E624325D}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "8b25a99748675753b536a0ad0f1907a3"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Download"
+Cache_GenFile[0][Path] Line0002 = "s/3ch ADC Sampling LaunchPad/builds/ADC 3ch "
+Cache_GenFile[0][Path] Line0003 = "Example LaunchPad/ADC 3ch Sampling LaunchPad"
+Cache_GenFile[0][Path] Line0004 = "/ADC 3ch Sampling LaunchPad.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Download"
+Cache_GenFile[1][Path] Line0002 = "s/3ch ADC Sampling LaunchPad/builds/ADC 3ch "
+Cache_GenFile[1][Path] Line0003 = "Example LaunchPad/ADC 3ch Sampling LaunchPad"
+Cache_GenFile[1][Path] Line0004 = "/ADC 3ch Sampling LaunchPad.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Download"
+Cache_GenFile[2][Path] Line0002 = "s/3ch ADC Sampling LaunchPad/builds/ADC 3ch "
+Cache_GenFile[2][Path] Line0003 = "Example LaunchPad/ADC 3ch Sampling LaunchPad"
+Cache_GenFile[2][Path] Line0004 = "/ADC 3ch Sampling LaunchPad.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{63DDEE46-866A-4CF5-B98E-A1E8BC779D3B}"
+Cache_GenGUID[1][String] = "{52425151-67C6-4883-AEDE-1352F08522FF}"
+Cache_GenGUID[2][String] = "{FFAF3BE1-3EB9-460F-9EED-2F91A1770B0C}"
+Cache_OutputDir[Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Downloads"
+Cache_OutputDir[Path] Line0002 = "/3ch ADC Sampling LaunchPad/builds/ADC 3ch Ex"
+Cache_OutputDir[Path] Line0003 = "ample LaunchPad/ADC 3ch Sampling LaunchPad"
+
+[AB_Cache_{59967E90-0AC3-4916-9944-26A94522E555}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "8b25a99748675753b536a0ad0f1907a3"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Download"
+Cache_GenFile[0][Path] Line0002 = "s/3ch ADC Sampling LaunchPad/builds/ADC 3ch "
+Cache_GenFile[0][Path] Line0003 = "Example LaunchPad/ADC 3ch Sampling LaunchPad"
+Cache_GenFile[0][Path] Line0004 = "/ADC 3ch Sampling LaunchPad.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Download"
+Cache_GenFile[1][Path] Line0002 = "s/3ch ADC Sampling LaunchPad/builds/ADC 3ch "
+Cache_GenFile[1][Path] Line0003 = "Example LaunchPad/ADC 3ch Sampling LaunchPad"
+Cache_GenFile[1][Path] Line0004 = "/ADC 3ch Sampling LaunchPad.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Download"
+Cache_GenFile[2][Path] Line0002 = "s/3ch ADC Sampling LaunchPad/builds/ADC 3ch "
+Cache_GenFile[2][Path] Line0003 = "Example LaunchPad/ADC 3ch Sampling LaunchPad"
+Cache_GenFile[2][Path] Line0004 = "/ADC 3ch Sampling LaunchPad.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{63DDEE46-866A-4CF5-B98E-A1E8BC779D3B}"
+Cache_GenGUID[1][String] = "{52425151-67C6-4883-AEDE-1352F08522FF}"
+Cache_GenGUID[2][String] = "{FFAF3BE1-3EB9-460F-9EED-2F91A1770B0C}"
+Cache_OutputDir[Path] Line0001 = "/D/Profiles/bth786.DSA/My Documents/Downloads"
+Cache_OutputDir[Path] Line0002 = "/3ch ADC Sampling LaunchPad/builds/ADC 3ch Ex"
+Cache_OutputDir[Path] Line0003 = "ample LaunchPad/ADC 3ch Sampling LaunchPad"
+

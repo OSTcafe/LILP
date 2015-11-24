@@ -1,0 +1,45 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "263,1105,759,1504"
+
+[AB_Cache_{5C66203E-EF2B-431F-B33B-56082F3A57D9}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "d23b057b807128ad86fbf787958e75c3"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LE"
+Cache_GenFile[0][Path] Line0002 = "D Example LaunchPad/LED Example LaunchPad.ex"
+Cache_GenFile[0][Path] Line0003 = "e"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LE"
+Cache_GenFile[1][Path] Line0002 = "D Example LaunchPad/LED Example LaunchPad.al"
+Cache_GenFile[1][Path] Line0003 = "iases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LE"
+Cache_GenFile[2][Path] Line0002 = "D Example LaunchPad/LED Example LaunchPad.in"
+Cache_GenFile[2][Path] Line0003 = "i"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{BC12C34B-B40C-4E09-B4BA-1F9F136FC949}"
+Cache_GenGUID[1][String] = "{BAF18066-DF99-451E-9410-F7121635EB72}"
+Cache_GenGUID[2][String] = "{D4B7444F-A571-4972-B7D7-BC16E8394C9F}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LED"
+Cache_OutputDir[Path] Line0002 = " Example LaunchPad"
+
+[AB_Cache_{AB3BA053-C777-4FA4-93F3-8B8F3F07DFCC}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "d23b057b807128ad86fbf787958e75c3"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LE"
+Cache_GenFile[0][Path] Line0002 = "D Example LaunchPad/LED Example LaunchPad.ex"
+Cache_GenFile[0][Path] Line0003 = "e"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LE"
+Cache_GenFile[1][Path] Line0002 = "D Example LaunchPad/LED Example LaunchPad.al"
+Cache_GenFile[1][Path] Line0003 = "iases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LE"
+Cache_GenFile[2][Path] Line0002 = "D Example LaunchPad/LED Example LaunchPad.in"
+Cache_GenFile[2][Path] Line0003 = "i"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{BC12C34B-B40C-4E09-B4BA-1F9F136FC949}"
+Cache_GenGUID[1][String] = "{BAF18066-DF99-451E-9410-F7121635EB72}"
+Cache_GenGUID[2][String] = "{D4B7444F-A571-4972-B7D7-BC16E8394C9F}"
+Cache_OutputDir[Path] Line0001 = "/C/Users/wtu/builds/LED Example LaunchPad/LED"
+Cache_OutputDir[Path] Line0002 = " Example LaunchPad"
+
